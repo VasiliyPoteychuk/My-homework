@@ -195,6 +195,12 @@ footer span{
   .wrapper{
     width: 375px;
   }
+  .wrapper header{
+    margin: 0;
+  }
+  .wrapper header h3{
+    margin-left: 16px;
+  }
   .wrapper header nav label{
     width: 16px;
     height: 12px;
